@@ -1,0 +1,14 @@
+Unable to resolve host 'mysql2'Unable to resolve host 'mysql2'Unable to resolve host 'mysql2'Unable to resolve host 'mysql2'Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Unable to resolve host 'mysql2'
+Fatal error occupied: Access denied for user 'example2'@'172.22.0.4' (using password: YES)
+Fatal error occupied: Access denied for user 'example'@'%' to database 'example2'
+Unable to resolve host 'mysql2'
+Fatal error occupied: No such file or directory
+Fatal error occupied: Access denied for user ''@'172.22.0.4' (using password: YES)

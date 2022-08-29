@@ -1,0 +1,25 @@
+services:
+  web:
+    build: .
+    ports:
+      - 8080:80
+    links:
+      - mysql
+      - es
+    volumes:
+      - ./:/var/www/html
+  mysql:
+    image: mysql:8.0
+    ports:
+      - 3306
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=example
+      - MYSQL_USER=example
+      - MYSQL_PASSWORD=example
+  es:
+    image: elasticsearch:7.17.5
+    ports:
+      - 9200
+    environment:
+        - discovery.type=single-node
