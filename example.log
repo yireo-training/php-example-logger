@@ -12,3 +12,11 @@ Fatal error occupied: Access denied for user 'example'@'%' to database 'example2
 Unable to resolve host 'mysql2'
 Fatal error occupied: No such file or directory
 Fatal error occupied: Access denied for user ''@'172.22.0.4' (using password: YES)
+[2022-08-29T13:28:55.082513+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:28:55.669013+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:28:56.200259+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:28:56.426843+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:29:04.846344+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:29:05.347739+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:29:06.006835+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
+[2022-08-29T13:29:06.581018+00:00] name.WARNING: Unable to resolve host 'mysql2' [] []
