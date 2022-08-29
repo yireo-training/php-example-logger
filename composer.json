@@ -1,5 +1,11 @@
 {
     "require": {
-        "monolog/monolog": "^3.2"
+        "monolog/monolog": "^3.2",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Academy\\": "src/"
+        }
     }
 }
